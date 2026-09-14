@@ -1,0 +1,1 @@
+Please note that CLL Simulation using matlab needs a frequent change of parameters to make sure getting the right results. the code support surge (hotspot) in data rates which represents the sudden changes of a set of sensors in the deployment area.
